@@ -51,6 +51,5 @@ class Qlearning:
 ```
 
 ## Youtube
-<iframe width="853" height="480" src="https://www.youtube.com/embed/hQU9H_T-kPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=hQU9H_T-kPw
-[![TIC-TAC-TOE using AI algorithms](http://img.youtube.com/vi/hQU9H_T-kPw/0.jpg)](http://www.youtube.com/watch?v=hQU9H_T-kPw)
+
+[![TIC-TAC-TOE using AI algorithms] (http://img.youtube.com/vi/hQU9H_T-kPw/0.jpg) ] (http://www.youtube.com/watch?v=hQU9H_T-kPw)
